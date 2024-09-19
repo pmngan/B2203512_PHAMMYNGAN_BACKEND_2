@@ -18,6 +18,7 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-vue": "^9.28.0",
     "globals": "^15.9.0",
+    "nodemon": "^3.1.6",
     "prettier": "^3.3.3"
   }
 }
